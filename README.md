@@ -4,7 +4,7 @@ TODO: Instructions for installing dependencies for Blender's Python Interpreter
 
 ```
 cd rendering
-/path/to/blender/python/ render_vis_fast.py ../../data/release/ladder-moving/ 5
+/path/to/blender/python/ render_labels.py ../../data/release/ladder-moving/ 5
 ```
 
 
